@@ -14,4 +14,4 @@ Being in a Web Interface makes it a great way to be quickly used. But sometimes 
 
 
 
-- **[metamask-snap-plugin]()**
+- **[metamask-snap-plugin](https://github.com/Man-Jain/burner-wallet-2/tree/develop/metamask-snaps-plugin/dispoable-account-snap)**
